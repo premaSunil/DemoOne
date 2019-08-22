@@ -14,6 +14,7 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         self.view.backgroundColor = UIColor.red
         //this is second try
+        //sel
         // Do any additional setup after loading the view.
     }
 
