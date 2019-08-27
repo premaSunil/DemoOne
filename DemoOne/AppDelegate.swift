@@ -11,7 +11,7 @@ import UIKit
 @UIApplicationMain
 class AppDelegate: UIResponder, UIApplicationDelegate {
     
-    // Hello Sunil how r u
+    // Hello Sunil how r u fuck you
     
     
     //Hello
